@@ -1,0 +1,8 @@
+stages:
+  train:
+    cmd: python train.py
+    deps:
+    - converted_finetome_dataset
+    - train.py
+    outs:
+    - gemma-3_1b_chat_lora_improved_v3

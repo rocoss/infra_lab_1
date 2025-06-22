@@ -35,7 +35,7 @@ def inference(message, enable_thinking=False):
     print("\n-----------------------------")
 
 
-inference("Задай вопрос про политику", enable_thinking=False)
-inference("Задай сложный вопрос про  Ельцана", enable_thinking=False)
-inference("Задай вопрос про  США", enable_thinking=False)
-inference("Задай вопрос для программиста", enable_thinking=False)
+inference("Задай вопрос про спорт", enable_thinking=False)
+inference("Задай сложный вопрос по физике", enable_thinking=False)
+inference("Напиши вопрос про США", enable_thinking=False)
+inference("Сформулируй вопрос для программиста", enable_thinking=False)

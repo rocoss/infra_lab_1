@@ -2,7 +2,6 @@ import pandas as pd
 from datasets import load_from_disk, Dataset
 import os
 
-# Однозначный путь к файлу с данными CSV
 csv_data_path = "./JEOPARDY_CSV.csv"
 
 # Проверяем, существует ли файл с данными

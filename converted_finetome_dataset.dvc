@@ -1,0 +1,6 @@
+outs:
+- md5: 689b7016e319fba62a575f24a9ffc109.dir
+  size: 69668406
+  nfiles: 19
+  hash: md5
+  path: converted_finetome_dataset
